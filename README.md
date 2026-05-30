@@ -57,12 +57,10 @@
 
 <div align="center">
   <!-- 核心数据汇总卡片 -->
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Stats" width="400px" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Stats" width="700px" />
+</div>
+<div align="center">
   <!-- 语言占比卡片 -->
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Langs" width="400px" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Langs" width="700px" />
 </div>
 
-<div align="center">
-  <!-- 提交时间段分析（完美彰显你的交付机器属性） -->
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="810px" />
-</div>
