@@ -24,12 +24,6 @@
 
 </div>
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzelda&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
